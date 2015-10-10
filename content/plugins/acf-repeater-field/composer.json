@@ -1,0 +1,7 @@
+{
+    "name": "JacobTyler/acf-repeater-field",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.0"
+    } 
+}
